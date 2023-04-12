@@ -1,4 +1,4 @@
-# Swift-ChatRoom
+# Swift ChatRoom
 
 # FULL COURSE: Build A Complete Chat App 100% Programmatic UIKit
     Build A Complete Chat App
