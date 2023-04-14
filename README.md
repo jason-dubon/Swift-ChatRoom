@@ -13,4 +13,4 @@ This is a FULL COURSE on how to build a chat room app with Swift using Firebase.
 
 # Preview
 
-![Chatroom - full course](https://user-images.githubusercontent.com/15134835/232072439-1e5d8a3f-5246-4bd7-b3be-7ad03b7f559b.png)
+![Chatroom - full course](https://www.youtube.com/watch?v=31RyTCeALQQ)
