@@ -9,7 +9,7 @@
 
 # Description
 
-    This is a FULL COURSE on how to build a chat room app with Swift using Firebase. We cover a variety of topics such as Network calls, Combine, Passing Data to views, caching images, and much more. Feel free to like and subscribe for more content to come! Free Course!
+This is a FULL COURSE on how to build a chat room app with Swift using Firebase. We cover a variety of topics such as Network calls, Combine, Passing Data to views, caching images, and much more. Feel free to like and subscribe for more content to come! Free Course!
 
 # Preview
 
