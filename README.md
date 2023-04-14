@@ -13,4 +13,4 @@
 
 # Preview
 
-![Youtube Tutorial Thumbnail (44)](https://user-images.githubusercontent.com/15134835/229350759-bc318059-ee42-4408-84a9-bc6477d36401.png)
+![Chatroom - full course](https://user-images.githubusercontent.com/15134835/232072439-1e5d8a3f-5246-4bd7-b3be-7ad03b7f559b.png)
